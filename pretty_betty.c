@@ -12,5 +12,6 @@ int main(void)
 
 	result = x + y;
 	printf("Addition of x and y is:%d\n", result);
+
 	return (0);
 }
